@@ -19,10 +19,10 @@ export default function BookCard({ book }) {
 
     return (
         <>
-            <div className="book-card" onClick={() => setIsOpen(true)}>
-                <img src={book.image} alt="Book Image" />
-                <h3>{book.title}</h3>
-                <div className="card-book-info">
+            <div className="book-card">
+                <img src={book.image} alt="Book Image" onClick={() => setIsOpen(true)} />
+                <h3 onClick={() => setIsOpen(true)}>{book.title}</h3>
+                <div className="card-book-info" onClick={() => setIsOpen(true)}>
                     <p>{book.author}</p>
                     <p>{book.year}</p>
                 </div>
@@ -55,8 +55,9 @@ export default function BookCard({ book }) {
                         
                         <div className="modal-text">
                             <h2>{book.title}</h2>
-                            <p>Author: {book.author}</p>
-                            <p>Year: {book.year}</p>
+                            <p><strong>Author: </strong>{book.author}</p>
+                            <p><strong>Year: </strong>{book.year}</p>
+                            <p><strong>Description: </strong>{book.description}</p>
                             <button onClick={() => setIsOpen(false)}>Close</button>
                         </div>
                     </div>
