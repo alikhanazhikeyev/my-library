@@ -1,0 +1,177 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "image": "https://m.media-amazon.com/images/I/81aY1lxk+9L._SL1500_.jpg",
+    "available": true
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "image": "https://m.media-amazon.com/images/I/81+8cdyQiML._SL1500_.jpg",
+    "available": true
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "year": 1997,
+    "image": "https://m.media-amazon.com/images/I/81iqZ2HHD-L.jpg",
+    "available": true
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "image": "https://m.media-amazon.com/images/I/71FTb9X6wsL.jpg",
+    "available": true
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "year": 1954,
+    "image": "https://m.media-amazon.com/images/I/91dSMhdIzTL.jpg",
+    "available": true
+  },
+  {
+    "title": "City of Ghosts",
+    "author": "Victoria Schwab",
+    "year": 2018,
+    "image": "https://m.media-amazon.com/images/I/715aoqRV+qL._SL1500_.jpg",
+    "available": true
+  },
+  {
+    "title": "Surfacing",
+    "author": "Margaret Atwood",
+    "year": 1972,
+    "image": "https://m.media-amazon.com/images/I/71gdgO-lWeL._SL1500_.jpg",
+    "available": false
+  },
+  {
+    "title": "The Shadowed Sun",
+    "author": "N.K. Jemisin",
+    "year": 2021,
+    "image": "https://m.media-amazon.com/images/I/91IVSqHIaoL._SL1500_.jpg",
+    "available": true
+  },
+  {
+    "title": "On The Genealogy of Morals: A Polemic",
+    "author": "Friedrich Nietzche",
+    "year": 1887,
+    "image": "https://m.media-amazon.com/images/I/71ATEK9VOfL._SL1499_.jpg",
+    "available": false
+  },
+  {
+    "title": "Capital",
+    "author": "Karl Marx",
+    "year": 1867,
+    "image": "https://m.media-amazon.com/images/I/71BD1XywD4L._SL1280_.jpg",
+    "available": true
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "year": 2020,
+    "image": "https://m.media-amazon.com/images/I/812whWLbqAL._SL1500_.jpg",
+    "available": true
+  },
+  {
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "year": 2011,
+    "image": "https://m.media-amazon.com/images/I/81dAQFi5HzL._SL1500_.jpg",
+    "available": false
+  },
+  {
+    "title": "The Prince",
+    "author": "Niccolò Machiavelli",
+    "year": 1532,
+    "image": "https://m.media-amazon.com/images/I/613IIHCzXeL._SL1500_.jpg",
+    "available": true
+  },
+  {
+    "title": "Klara and the Sun",
+    "author": "Kazuo Ishiguro",
+    "year": 2021,
+    "image": "https://m.media-amazon.com/images/I/71w6CaOT+cL._SL1500_.jpg",
+    "available": false
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "year": 1945,
+    "image": "https://m.media-amazon.com/images/I/71ut9GR9pkL._SL1500_.jpg",
+    "available": true
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "year": 2018,
+    "image": "https://m.media-amazon.com/images/I/91AnXd9k-jL._SL1500_.jpg",
+    "available": true
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "year": 2008,
+    "image": "https://m.media-amazon.com/images/I/61JfGcL2ljL.jpg",
+    "available": true
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "image": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg",
+    "available": true
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "year": 2017,
+    "image": "https://m.media-amazon.com/images/I/71sIVAqjlfL._SL1500_.jpg",
+    "available": true
+  },
+  {
+    "title": "Attack on Titan Omnibus 3",
+    "author": "Hajime Isayama",
+    "year": 2022,
+    "image": "https://m.media-amazon.com/images/I/81G5OKNLmmL._SL1500_.jpg",
+    "available": true
+  },
+  {
+    "title": "Beneath the Surface",
+    "author": "Kaia Kanda",
+    "year": 2020,
+    "image": "https://m.media-amazon.com/images/I/81Nt7oULIbL._SL1500_.jpg",
+    "available": true
+  },
+  {
+    "title": "Enchantment of Ravens",
+    "author": "Margaret Rogerson",
+    "year": 2017,
+    "image": "https://m.media-amazon.com/images/I/81VacthcUHL._SL1500_.jpg",
+    "available": true
+  },
+  {
+    "title": "The Idiot",
+    "author": "F. Dostoyevsy",
+    "year": 2022,
+    "image": "https://m.media-amazon.com/images/I/71qnRiJ+i8L._SL1499_.jpg",
+    "available": false
+  },
+  {
+    "title": "Fathers and Sons",
+    "author": "Ivan Turgenev",
+    "year": 1965,
+    "image": "https://m.media-amazon.com/images/I/81YCpCfH73L._SL1500_.jpg",
+    "available": true
+  },
+  {
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "year": 2011,
+    "image": "https://m.media-amazon.com/images/I/81msb6gUBTL._SL1500_.jpg",
+    "available": true
+  }
+]
