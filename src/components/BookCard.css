@@ -154,22 +154,6 @@
   margin-top: 40px;
 }
 
-@media (max-width: 600px) {
-  .header {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 10px;
-  }
-
-  .search-bar {
-    max-width: 90%;
-  }
-
-  .book-grid {
-    padding: 30px 20px;
-  }
-}
-
 .slideshow-container {
   position: relative;
   max-width: 800px;

@@ -1,11 +1,7 @@
-.banner {
-  background: #e2e6e8;
-}
-
 .banner h1 {
   text-align: center;
   padding: 30px;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .carousel {
@@ -15,6 +11,7 @@
   align-items: center;
   padding: 60px 0;
   overflow: hidden;
+  background: #e2e6e8;
 }
 
 .carousel-track {
